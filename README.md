@@ -1,7 +1,7 @@
-# Ng4FullProject
+# Recipe Angular Project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
-I am constantly working and updating this project and others as well which can be seen in other repositories as well, however they are in different languages or technologies
+I am constantly working and updating this project and others as well which can be seen in other repositories, however they are in different languages or technologies. This project allows you to create your own recipe, edit or delete it, add or delete ingredients, still not saving in a database, but I am in the process of doing it as well include authentication
 
 ## Development server
 
