@@ -23,3 +23,7 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
+## Errors
+
+If you see the following error `Could not find module “@angular-devkit/build-angular”` it usually happens if you try to run it in a Mac and I developed it in Windows, you can fix it using the following command `npm install --save-dev @angular-devkit/build-angular`
+
