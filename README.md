@@ -6,7 +6,7 @@ I am constantly working and updating this project and others as well which can b
 ## Deployed App
 
 The application is deployed in AWS and can be found in: http://myrecipe-book-deployment.s3-website-ap-southeast-2.amazonaws.com
-Stil requires some work around the edges but is working for the purpose of this demo, to edit, delete or add recipes, the user needs to register or log in 
+Still requires some work around the edges but is working for the purpose of this demo, to edit, delete or add recipes, the user needs to register or log in 
 
 ## Development server
 
