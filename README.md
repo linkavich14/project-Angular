@@ -3,6 +3,11 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 I am constantly working and updating this project and others as well which can be seen in other repositories, however they are in different languages or technologies. This project allows you to create your own recipe, edit or delete it, add or delete ingredients, saves and retrieves data from a database, has simple authentication done in Firebase.
 
+## Deployed App
+
+The application is deployed in AWS and can be found in: http://myrecipe-book-deployment.s3-website-ap-southeast-2.amazonaws.com
+Stil requires some work around the edges but is working for the purpose of this demo, to edit, delete or add recipes, the user needs to register or log in 
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
